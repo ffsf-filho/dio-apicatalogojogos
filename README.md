@@ -1,6 +1,6 @@
 # Bootcamp GFT START #2 .NET
 
-## No Bootcamp foi proposto o de desenvolvimento de um projeto contendo uma API de Catalago de Jogos
+## O projeto proposto no Bootcamp foi o desenvolvimento de CRUD no formato de API, para um Catalago de Jogos.
 
 ### Requisitos
 
